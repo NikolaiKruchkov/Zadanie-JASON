@@ -1,0 +1,16 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\Zadanie JSON 1.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\Zadanie JSON 1.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\Zadanie JSON 1.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\Zadanie JSON 1.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\Zadanie JSON 1.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\bin\Debug\net5.0\Zadanie JSON 1.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\bin\Debug\net5.0\Zadanie JSON 1.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\bin\Debug\net5.0\Zadanie JSON 1.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\bin\Debug\net5.0\Zadanie JSON 1.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\bin\Debug\net5.0\Zadanie JSON 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\bin\Debug\net5.0\ref\Zadanie JSON 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\bin\Debug\net5.0\Zadanie JSON 1.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\Zadanie JSON 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\ref\Zadanie JSON 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\Zadanie JSON 1.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание JSON\Zadanie JSON\Zadanie JSON\obj\Debug\net5.0\Zadanie JSON 1.genruntimeconfig.cache
